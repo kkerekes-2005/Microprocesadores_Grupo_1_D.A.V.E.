@@ -4,7 +4,7 @@ Proyecto final de Microprocesadores (Tecnun). Sistema sensor-actuador por radio 
 - **Grupo de proyecto:** _N_
 - **Grupo A (nodo Tx, coche):** _integrantes_
 - **Grupo B (nodo Rx, monitor):** _integrantes_
-- **Frecuencia asignada:** _XXX,X MHz_ (`EasyLink_setFrequency(XXX000000)`)
+- **Frecuencia asignada:** 863,0 MHz (EasyLink_setFrequency(863000000);)
 
 ---
 
