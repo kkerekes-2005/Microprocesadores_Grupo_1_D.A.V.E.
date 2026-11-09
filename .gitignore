@@ -1,0 +1,9 @@
+Debug/
+Release/
+.launches/
+.settings/
+*.out
+*.map
+*.obj
+*.d
+*.pp
