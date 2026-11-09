@@ -1,5 +1,4 @@
-# CarGuard — Vigilancia de movimientos anómalos en un vehículo
-
+# D.A.V.E. - Detección Automática de Vehículos y Emergencias
 Proyecto final de Microprocesadores (Tecnun). Sistema sensor-actuador por radio Sub-1 GHz.
 
 - **Grupo de proyecto:** _N_
